@@ -1,0 +1,11 @@
+.lightBtn {
+
+}
+
+.darkBtn {
+    background-color: #111b47;
+    color: #ffffff;
+    border: 1px solid #111b47;
+    border-radius: 2px;
+    padding: 4px 0;
+}

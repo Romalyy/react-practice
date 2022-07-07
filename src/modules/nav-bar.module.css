@@ -1,0 +1,10 @@
+.nav {
+    color: #000;
+    padding: 30px 0;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
